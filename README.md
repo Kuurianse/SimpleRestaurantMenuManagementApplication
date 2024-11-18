@@ -1,7 +1,3 @@
-Here’s the README in English for your **Simple Restaurant Menu Management Application**:
-
----
-
 # **Simple Restaurant Menu Management Application**
 
 ## **Project Description**  
@@ -92,26 +88,3 @@ Choose an option:
   - Improve user experience using **JavaFX** or **Swing**.  
 - **Reporting Features**  
   - Generate reports such as total revenue and the number of sold menu items.  
-
----
-
-## **Contribution**  
-Contributions are welcome! To contribute:  
-1. Fork this repository.  
-2. Create a new branch for your feature or fix.  
-3. Submit a pull request with a description of the changes you made.  
-
----
-
-## **License**  
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.  
-
----
-
-## **Author**  
-**Surya Saddam Saputra**  
-Informatics Engineering Student, BINUS University  
-
----
-
-This README is now professional and ready for your GitHub project! 🚀
